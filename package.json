@@ -23,9 +23,9 @@
 	},
 	"dependencies": {
 		"@fortawesome/fontawesome-free": "^5.5.0",
-		"aws-cdk": "^0.36.1",
-		"hugo-bin": "0.44.3",
+		"aws-cdk": "^2.85.0",
+		"hugo-bin": "0.110.0",
 		"hugo-lunr": "0.0.4",
-		"mermaid": "^8.2.3"
+		"mermaid": "^8.14.0"
 	}
 }
